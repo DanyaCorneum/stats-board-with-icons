@@ -1,6 +1,6 @@
 # Stats board with icons
 
-## A simple board with characteristics and icons created using "flrexbox"
+## A simple board with characteristics and icons created using "flexbox"
 
 ---
 
